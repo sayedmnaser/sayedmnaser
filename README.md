@@ -157,19 +157,3 @@
 </div>
 
 <br/>
-
-## ⭐ &nbsp;Support
-
-<div align="center">
-
-If you like my work, please **⭐ star** my repos and **follow** me!
-
-<br/>
-
-<a href="https://github.com/sayedmnaser?tab=repositories"><img src="https://img.shields.io/badge/⭐_Star_My_Repos-FFA116?style=for-the-badge&logo=github&logoColor=black"/></a>
-&nbsp;&nbsp;
-<a href="https://github.com/sayedmnaser"><img src="https://img.shields.io/badge/👥_Follow_Me-1E90FF?style=for-the-badge&logo=github&logoColor=white"/></a>
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00d4ff,50:1e90ff,100:0d1117&height=130&section=footer&animation=fadeIn" width="100%"/>

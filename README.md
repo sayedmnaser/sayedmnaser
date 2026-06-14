@@ -1,6 +1,5 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a3d62,70:1e90ff,100:00d4ff&height=220&section=header&text=Hi%20There!%20%F0%9F%91%8B%20I'm%20Mansoor%20Naser&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20%26%20Mobile%20Developer%20%7C%20Flutter%20%E2%80%A2%20Go%20%E2%80%A2%20PocketBase&descAlignY=60&descSize=17&descColor=a8d8f0" width="100%"/>
 
 <br/>
 

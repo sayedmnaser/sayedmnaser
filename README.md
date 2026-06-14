@@ -132,13 +132,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sayedmnaser&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=1e90ff&line=00d4ff&point=ffffff" />
 </p>
 
-## 🏆 &nbsp;GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sayedmnaser&theme=algolia&no-frame=true&column=7" />
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## 🌐 &nbsp;Connect With Me
 
